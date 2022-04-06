@@ -47,7 +47,7 @@ Application Info.plist must contain an **Privacy - Camera Usage Description** an
 
 The SDK is available with Swift Package Manager and you can include it in your project by adding the following package repository URL:
 Select your project under project navigator and select Package Dependencies then press on plus button paste the url there.
-For more guidance watch this guided image. [here](https://github.com/shuftipro/shuftipro-ios-sdk/images/Guide.png)
+For more guidance watch this guided image. [here](https://github.com/shuftipro/shuftipro-ios-sdk/blob/main/images/Guide.png)
 
 
 https://github.com/shuftipro/shuftipro-ios-sdk
