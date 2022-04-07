@@ -1,4 +1,4 @@
-# DemoSPM
+# Shuftipro Swift Package Manager
 
 # What Is This?
 Shufti Pro is a SaaS provider. We provides quick and accurate digital identity and document verification. E-KYC using government-issued documents like ID card, passport, driving license and even credit/debit cards, etc. has never been easier. Shufti Pro allows for simple and easy ID checks online, securing the virtual trading platforms and FinTech institutions against scams, frauds and money launderers.
@@ -893,12 +893,12 @@ If you have any questions/queries regarding implementation SDK please feel free 
 If you have any questions/queries regarding implementation SDK please feel free to contact our [tech support](mailto:support@shuftipro.com).
 
 ## Copyright
-2017- 21 © Shufti Pro Ltd.
+2017- 22 © Shufti Pro Ltd.
 
 ## Revision History
 
-Date            | Description 
---------------- | ------------
+Date            | Description  |
+--------------- | ------------ |
 
 06 ARL 2022 | Added support for Swift Package Manager
 
