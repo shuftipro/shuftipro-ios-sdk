@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "ShuftiPro",
+    platforms: [.iOS(.v11) ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
@@ -20,10 +21,11 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
     
         
-            .binaryTarget(
-                   name: "ShuftiPro",
-                   path: "ShuftiPro.xcframework"
-               )
+        .binaryTarget(
+                name: "ShuftiPro",
+                url:"https://github.com/shuftipro/shuftipro-framework/raw/main/ShuftiPro.xcframework.zip",
+                checksum: "41fd9351e7c51185bb0a8673680adf49ac57cc4e0871c765a27dc01580359199"
+                      )
     ]
 )
 
