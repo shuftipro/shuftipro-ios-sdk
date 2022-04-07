@@ -899,6 +899,5 @@ If you have any questions/queries regarding implementation SDK please feel free 
 
 Date            | Description  |
 --------------- | ------------ |
-
 06 ARL 2022 | Added support for Swift Package Manager
 
