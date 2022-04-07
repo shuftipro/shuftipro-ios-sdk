@@ -899,15 +899,6 @@ If you have any questions/queries regarding implementation SDK please feel free 
 
 Date            | Description 
 --------------- | ------------
-20 Jan 2021    | Added all verifications(verification with OCR, without OCR and restful API) in one sdk.
-4  Feb 2021    | Updated binaries with increased request timeout.
-26 Mar 2021    | Bugs fixes and UI improvements. 
-29 Mar 2021    | Issue fixes in consent screen.
-29 Apr 2021    | Reduce sdk size.
-18 May 2021 | Improve user experience.
-27 May 2021 | Content updated.
-07 Jul 2021 | ReadMe updated.
-08 Nov 2021 | Remove request timeout time and added support of WKWebview.
-01 Dec 2021 | Bugs fixes and UI improvements. 
+
 06 ARL 2022 | Added support for Swift Package Manager
 
