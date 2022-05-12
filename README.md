@@ -53,7 +53,7 @@ For more guidance watch this guided image. [here](https://github.com/shuftipro/s
 https://github.com/shuftipro/shuftipro-ios-sdk
 
 ## SDK Version:
-Currently our updated SDK version is 1.0.1
+Currently our updated SDK version is 1.0.2
 
 ## Verification
 In order to get verified, customers will have themselves verified through their mobile phones. They will do it through the merchant's mobile application. Merchant will collect the information and send data to Shufti Pro for verification. The Merchant shall provide the proofs(Images/Videos). Shufti Pro will not collect them directly from the user.
@@ -900,4 +900,5 @@ If you have any questions/queries regarding implementation SDK please feel free 
 Date            | Description  |
 --------------- | ------------ |
 06 ARL 2022 | Added support for Swift Package Manager
+12 May 2022 | Implement new features and improve user experience
 
