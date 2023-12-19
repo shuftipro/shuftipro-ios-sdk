@@ -1,4 +1,5 @@
 import Starscream
+import Lottie
 //import ShuftiPro
 //import Lottie
 
