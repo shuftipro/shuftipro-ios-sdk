@@ -15,10 +15,7 @@ let package = Package(
         
     ],
     dependencies: [
-    
-        .package(url: "https://github.com/airbnb/lottie-ios", from: "4.1.2" ),
-        
-        .package(url: "https://github.com/socketio/socket.io-client-swift", from: "16.0.1" ),
+        .package(url: "https://github.com/socketio/socket.io-client-swift", from: "16.1.0" ),
 
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
@@ -32,13 +29,13 @@ let package = Package(
         .binaryTarget(
                 name: "ShuftiPro",
                 url:"https://github.com/shuftipro/shuftipro-framework/raw/main/ShuftiPro.xcframework.zip",
-                checksum: "5f6a39cef870c5138bef17040557ad6f7d7f6e0982505d29eaa566e8a12fcc68"
+                checksum: "ecb8130f87b022fdbfdf771c1b99bc7f09e2f0c98782de5824d774e1f00ae03d"
                       ),
     
         
         .target(
             name: "PackageDependencies",
-            dependencies: [ .product(name: "SocketIO", package: "socket.io-client-swift") ,  .product(name: "Lottie", package: "lottie-ios") ],
+            dependencies: [ .product(name: "SocketIO", package: "socket.io-client-swift")],
             path: "Sources",
             resources: [
                 .process("Resource/Media.xcassets")
